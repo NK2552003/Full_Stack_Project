@@ -11,6 +11,11 @@ export default {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        cardBlue: "#DDECEF",
+        cardSkyBlue: "#DBF9F9",
+        cardlightDarkPurple: "#D9E7F4",
+        cardYellow: "#FAE27C",
+        cardYellowLight: "#FEFCE8"
       },
     },
   },
