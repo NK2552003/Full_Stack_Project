@@ -68,7 +68,11 @@ const data = [
   
 const FinanceComponent = () => {
     return (
+<<<<<<< HEAD
                 <div className="bg-white rounded-lg p-4 h-full">
+=======
+                <div className="bg-white rounded-xl p-4 h-full border-[0.5px] border-black">
+>>>>>>> 799c836 (new change)
                     <div className="flex justify-between items-center">
                         <h1 className="text-lg font-semibold">Finance</h1>
                         <Image src="/more.png" alt="" width={20} height={20} />
@@ -82,7 +86,11 @@ const FinanceComponent = () => {
                             top: 5,
                             right: 30,
                             left: 20,
+<<<<<<< HEAD
                             bottom: 5,
+=======
+                            bottom: 10,
+>>>>>>> 799c836 (new change)
                         }}
                         >
                         <CartesianGrid strokeDasharray="3 3" color='#ddd'/>
